@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Tliens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tliens&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tliens)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tliens&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+[![Tliens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tliens&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tliens)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tliens&repo=github-readme-stats)]
