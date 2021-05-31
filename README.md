@@ -1,6 +1,6 @@
-## Hi there �
+## Hi there 
 
-- 🌱 I’m currently learning Swift\Metal
+- 🌱 I’m currently learning Swift、Metal
 - 🤔 I’m looking for help with contributors for [SpeedySwift](https://github.com/Tliens/SpeedySwift)
 
 ## Reach me 📫
