@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Swift、Metal
 - 🤔 I’m looking for help with contributors for [SpeedySwift](https://github.com/Tliens/SpeedySwift)
 - 🐻 Open Source:[SpeedySwift](https://github.com/Tliens/SpeedySwift)、[KillBug](https://github.com/Tliens/KillBug)、[IPADownloader](https://github.com/Tliens/IPADownloader)、[CTNet](https://github.com/ours-curiosity/CTNet)、[SpeedyMetal](https://github.com/Tliens/SpeedyMetal)、[GPUImageByMetal](https://github.com/Tliens/GPUImageByMetal)、[Localizable](https://github.com/Tliens/Localizable)
-- 🐠 联合编辑：[摸鱼周报](https://github.com/zhangferry/iOSWeeklyLearning)、WWDC21内参编辑
+- 🐠 联合编辑：[摸鱼周报](https://github.com/zhangferry/iOSWeeklyLearning)
+- 🌈 公众号：独立开发者基地
 
 
 ## Reach me 📫
