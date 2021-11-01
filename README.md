@@ -9,8 +9,8 @@
 
 
 ## Reach me 📫
-- [Website](tlien.top)
-- [Juejin](https://juejin.cn/user/1151943916921885/posts)
+- [指尖跳动工作室](tlien.top)
+- [掘金](https://juejin.cn/user/1151943916921885/posts)
 
 ## Github state
 
