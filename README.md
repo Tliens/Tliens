@@ -9,11 +9,13 @@
 
 
 ## Reach me 📫
-- [指尖跳动工作室](tlien.top)
-- [掘金](https://juejin.cn/user/1151943916921885/posts)
+- [指尖跳动工作室](https://tlien.top)
+- [博客：掘金](https://juejin.cn/user/1151943916921885/posts)
 
 ## Github state
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tliens))](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tliens&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tlien's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tliens&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
