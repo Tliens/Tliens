@@ -1,6 +1,7 @@
 ## Hi there 
 
-- 🌱 I’m currently learning Swift、Objective-C、FFmpeg、Go、Python
+- 🤡 A Full stack engineer(iOS、前端、服务端)
+- 🌱 I’m currently learning Python、Django
 - 🤔 I’m looking for help with contributors for [SpeedySwift](https://github.com/Tliens/SpeedySwift)
 - 🐻 Open Source:[SpeedySwift](https://github.com/Tliens/SpeedySwift)、[KillBug](https://github.com/Tliens/KillBug)、[IPADownloader](https://github.com/Tliens/IPADownloader)、[CTNet](https://github.com/ours-curiosity/CTNet)、[SpeedyMetal](https://github.com/Tliens/SpeedyMetal)、[GPUImageByMetal](https://github.com/Tliens/GPUImageByMetal)、[Localizable](https://github.com/Tliens/Localizable)
 - 🏆 开源app：[《今日计划》Appstore 地址🚀](https://apps.apple.com/cn/app/id1505020317)、[《今日计划》Github 地址💼](https://github.com/Tliens/SSPlan)
@@ -9,7 +10,7 @@
 
 
 ## Reach me 📫
-- [指尖跳动工作室](https://tlien.top)
+- [指尖跳动工作室](https://www.tlien.top)
 - [博客：掘金](https://juejin.cn/user/1151943916921885/posts)
 
 ## Github state
