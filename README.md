@@ -1,6 +1,6 @@
 ## Hi there 
 
-- 🤡 A Full stack engineer(iOS、前端、服务端)
+- 🤡 A Full stack engineer(iOS、Web、Server)
 - 🌱 I’m currently learning Python、Django
 - 🤔 I’m looking for help with contributors for [SpeedySwift](https://github.com/Tliens/SpeedySwift)
 - 🐻 Open Source:[SpeedySwift](https://github.com/Tliens/SpeedySwift)、[KillBug](https://github.com/Tliens/KillBug)、[IPADownloader](https://github.com/Tliens/IPADownloader)、[CTNet](https://github.com/ours-curiosity/CTNet)、[SpeedyMetal](https://github.com/Tliens/SpeedyMetal)、[GPUImageByMetal](https://github.com/Tliens/GPUImageByMetal)、[Localizable](https://github.com/Tliens/Localizable)
